@@ -1,5 +1,5 @@
-import { Canvas } from "@react-three/fiber";
-import { useGLTF, Stage, PresentationControls } from "@react-three/drei";
+// import { Canvas } from "@react-three/fiber";
+// import { useGLTF, Stage, PresentationControls } from "@react-three/drei";
 import { StlViewer } from "react-stl-viewer";
 import { useState } from "react";
 
